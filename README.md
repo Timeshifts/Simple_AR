@@ -18,7 +18,6 @@ data 폴더의 `ChessBoard.mp4` 파일을 기준으로 합니다.
 
 # AR 구현 결과
 ![구현 결과](readme_image/AR_Image.png)
-## 보정 이후
 
 # 참고
 이 코드는 [다음의 코드](https://github.com/mint-lab/3dv_tutorial/blob/master/examples/pose_estimation_chessboard.py)를 기반으로 하여 작성되었습니다.
