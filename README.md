@@ -1,5 +1,5 @@
 # Simple_AR
-간단한 AR 구현 예전
+간단한 AR 구현 예제
 
 # 개요
 [Camera_Distortion_Corrector](https://github.com/Timeshifts/Camera_Distort_Corrector)에서 이어지는 예제로,
